@@ -44,40 +44,40 @@ export class TimelineComponent {
             {
               x: "Analysis",
               y: [
-                new Date("2019-02-27").getTime(),
-                new Date("2019-03-04").getTime()
+                new Date("2018-09-07").getTime(),
+                new Date("2018-09-12").getTime()
               ],
               fillColor: "#008FFB"
             },
             {
               x: "Design",
               y: [
-                new Date("2019-03-04").getTime(),
-                new Date("2019-03-08").getTime()
+                new Date("2018-09-12").getTime(),
+                new Date("2018-09-16").getTime()
               ],
               fillColor: "#00E396"
             },
             {
               x: "Coding",
               y: [
-                new Date("2019-03-07").getTime(),
-                new Date("2019-03-10").getTime()
+                new Date("2018-09-16").getTime(),
+                new Date("2018-09-23").getTime()
               ],
               fillColor: "#775DD0"
             },
             {
               x: "Testing",
               y: [
-                new Date("2019-03-08").getTime(),
-                new Date("2019-03-12").getTime()
+                new Date("2018-09-23").getTime(),
+                new Date("2018-09-28").getTime()
               ],
               fillColor: "#FEB019"
             },
             {
               x: "Deployment",
               y: [
-                new Date("2019-03-12").getTime(),
-                new Date("2019-03-17").getTime()
+                new Date("2018-09-28").getTime(),
+                new Date("2018-09-31").getTime()
               ],
               fillColor: "#FF4560"
             }
